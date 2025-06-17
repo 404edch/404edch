@@ -8,7 +8,7 @@ I'm a 17-year-old Computer Science student, crafting code and ideas to make the 
 ## 💡 About Me
 
 - 🖥️ **Languages:** Luau , Java, Python, HTML, CSS, JavaScript
-- 🎆 **Passions:** Lightshows/Uptempo (Defqon-style!), gaming, and building tech that solves real problems
+- 🎆 **Passions:** Lightshows/Uptempo (Defqon-style!), gaming, cinema and building tech that solves real problems
 - 🛠️ **Favorite Project:**  
   A remote monitoring trash bin that ended the scheduling headaches in my apartment complex—because technology should make life easier for everyone.
 - 🌎 **Mission:**  
