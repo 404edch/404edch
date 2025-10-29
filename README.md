@@ -1,47 +1,31 @@
-# 👋 Hey there! I'm Eddie, known by my alias~Shizu.
+# 👋 Hey, I’m Eddie 
 
-Welcome to my corner of the internet!  
-I'm a 17-year-old Computer Science student, crafting code and ideas to make the world a little brighter.
+I’m an 18-year-old Computer Science student passionate about building tech that makes life simpler and more meaningful.
 
 ---
 
 ## 💡 About Me
 
-- 🖥️ **Languages:** Luau , Java, Python, HTML, CSS, JavaScript
-- 🎆 **Passions:** Lightshows(Defqon-style!), gaming, cinema, music, malware and building tech that solves real problems
-- 🛠️ **Favorite Project:**  
-  A remote monitoring trash bin that ended the scheduling headaches in my apartment complex—because technology should make life easier for everyone.
-- 🌎 **Mission:**  
-  I grew up on the internet, and it's my lifelong passion to create projects that make a positive impact, helping and inspiring others along the way.
+- **Languages:** Java, Python, HTML, CSS, JavaScript, C 
+- **Interests:** Lightshows, gaming, cinema, music, cybersecurity  
+- **Notable Project:**  
+  Built a remote-monitoring trash-bin system that streamlines waste collection.  
+- **Goal:**  
+  Create projects that make a real impact and inspire others to do the same.
 
 ---
 
 ## 🧠 Inspiration
 
-> "No matter what anybody tells you, words and ideas can change the world."  
+> “No matter what anybody tells you, words and ideas can change the world.”  
 > — Robin Williams
 
-I live by the belief that even the smallest spark of creativity can ignite meaningful change. 
-Some of the kindest people hide the deepest struggles—but we work hardest to make others smile.
+Even small ideas can lead to meaningful change.
 
 ---
 
-## 🕹️ What Drives Me
+## 🌐 Connect
 
-- Making projects that matter—big or small
-- Using code to break barriers and connect people
-- Leaving a legacy of kindness, creativity, and practical solutions
-
----
-
-## 🌟 Let's Connect
-
-Want to collaborate, chat about tech, or just share some good vibes?  
-Feel free to reach out—let's build something memorable together!
-Discord: chshizu
-
----
-
-<!--
-Sensitive info intentionally omitted for privacy. 
--->
+Let’s collaborate or talk tech!  
+**Discord:** `chshizu`  
+**LinkedIn:** [Eduardo Henrique Chechin](https://www.linkedin.com/in/eduardo-henrique-chechin-a96251363/)
