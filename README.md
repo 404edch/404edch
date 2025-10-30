@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Eddie 
 
-I’m an 18-year-old Computer Science student passionate about building tech that makes life simpler and more meaningful.
+I’m an 18-year-old CompSci student passionate about building tech that makes life simpler and more meaningful.
 
 ---
 
