@@ -1,4 +1,4 @@
-## Hi there 👋
+## Let's code a better world!
 
 <!--
 **404edch/404edch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
