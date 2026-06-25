@@ -1,4 +1,4 @@
 # "Let's code a better world!"
 
-Hi! I'm Eddie -> Currently pursuing a Bachelor's in Computer Science. 
+Hi! I'm Eddie -> Currently pursuing a Bachelor's in Computer Science.<br>
 Here on GitHub to watch all the crazy stuff that comes to mind take shape :D
