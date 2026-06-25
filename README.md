@@ -1,3 +1,3 @@
-## Let's code a better world!
-**Hi! I'm Eddie**.<br>
-Currently pursuing a Bachelor's of Computer Science Degree. Here on GitHub to see all the crazy stuff that comes to mind taking shape :D. 
+# "Let's code a better world!"
+
+Hi! I'm Eddie. Currently pursuing a Bachelor's in Computer Science. Here on GitHub to watch all the crazy stuff that comes to mind take shape :D
