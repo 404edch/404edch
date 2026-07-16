@@ -8,7 +8,6 @@ Here on GitHub to watch all the crazy stuff that comes to mind take shape :D
 <td valign="top">
 
 ```
-------------
 OS: ...................... Windows/Linux/macOS
 Uptime: .................. 19 years
 Host: .................... Threadweaver
